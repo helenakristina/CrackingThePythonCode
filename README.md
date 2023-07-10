@@ -25,7 +25,7 @@ In this course, you will learn to find the answers and reinforce your learning b
 - <b>Celebrate!</b> Hack that reward pathway! I know it feels cheesy, but at the very least, give yourself a compliment every time you finish a lesson, even if it felt easy. This really works!
 
 ## About Helena
-As a single mom, Helena Lucia returned to college and completed a computer science degree Cum Laude. Early on, she noticed cracks in the system of teaching STEM concepts by "immersion through recursion". Drawing on her vast expertise in not only computer science and skills she has polished on her own mental health journey, Helena combines all her superpowers to bring you a new kind of Python course. 
+As a single mom, Helena Lucia returned to college and completed a computer science degree Cum Laude. Early on, she noticed cracks in the system of teaching STEM concepts by "immersion through recursion". Drawing on her vast expertise in not only computer science and skills she has polished on her own journey, Helena combines all her superpowers to bring you a new kind of Python course. 
 
 <a href="./01_variables.md">Get Started!</a>
 
