@@ -13,7 +13,7 @@ In this course, you will learn to find the answers and reinforce your learning b
 <hr/>
 
 ## Methodology
-- <b>Learn Through Association and Repitition.</b> Memory works like a network, we remember things by associating things to what we already know, and reinforce those neural pathways through repitition. This may feel redundant, but it is by design.
+- <b>Learn Through Association and Repetition.</b> Memory works like a network, we remember things by associating things to what we already know, and reinforce those neural pathways through repetition. This may feel redundant, but it is by design.
 - <b>Conceptualize, Then Apply.</b> This course uses learning notebooks to ensure that you can immediately apply the concepts even before you have a local Python programming environment set up. This provides immediate feedback and reinforcement.
 - <b>Build Momentum with Success.</b> Small, bite-sized lessons that grow in complexity provide confidence and build momentum.
 - <b>Learn to Fish.</b> I'm sure you have heard the proverb, "If you give a person a fish, they eat for a day. If you teach them to fish, they eat for a lifetime." My goal is to teach you to fish. Many programmers are expert Googlers. In this course, I teach you how to use built-in help functions and search engine to find solutions when they are non-obvious.
